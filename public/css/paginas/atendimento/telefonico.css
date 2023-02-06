@@ -1,0 +1,31 @@
+
+
+
+@media (min-width: 576px) {
+  .fix_media_query {
+    max-width: 540px;
+  }
+}
+@media (min-width: 768px) {
+   .fix_media_query {
+    max-width: 720px;
+  }
+}
+@media (min-width: 992px) {
+   .fix_media_query {
+    max-width: 960px;
+  }
+}
+@media (min-width: 1200px) {
+  .fix_media_query {
+    max-width: 1140px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .fix_media_query {
+   max-width: 1026px;
+  }
+}
+
+

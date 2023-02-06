@@ -1,0 +1,11 @@
+.texto-card {
+    margin-bottom: 0
+}
+
+.texto-card {
+    font-weight: bold;
+    font-size: 1.0rem;
+    display: block;
+    line-height: 1;
+    margin: 1rem auto
+}

@@ -1,0 +1,13 @@
+.table_scroll_orcamentos {
+    overflow-y: hidden;
+    display: block;
+    overflow-x: scroll;
+}
+
+.modal-giant {
+    max-width: 96%;
+}
+
+.modal-medium-giant {
+    max-width: 80%;
+}

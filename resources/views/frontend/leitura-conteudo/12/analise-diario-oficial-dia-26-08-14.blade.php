@@ -1,0 +1,42 @@
+@extends('frontend.layouts.app_frontend')
+@section('content')
+<title>Análise Diário Oficial dia 26/08/14</title>
+<meta name="keywords" content="HASHTAGS">
+<meta name="description" content="TEXTO-DESCRIPTION">
+<section id="breadcrumb" class="breadcrumb-section relative-position backgroud-style">
+	<div class="blakish-overlay"></div>
+	<div class="page-breadcrumb-content text-center">
+		<h2 class="breadcrumb-head black bold">Análise Diário Oficial dia 26/08/14</span></h2>
+	</div>
+</section>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-sm">
+			<h4>Análise Diário Oficial dia 26/08/14</h4>
+		</div>
+		<div class="col-sm">
+			<!-- TEXTO_PUPLICADO_POR -->
+		</div>
+		<div class="col-sm">
+			<!-- TEXTO_DATA_PUPLICACAO -->
+		</div>
+	</div>
+</div>
+<div class="container pb-5 mb-5">
+	<div class="row">
+		<div class="col-sm">
+			<div><b>Página 15 </b></div><div><ul><li><span style="line-height: 1.2;"> <b>Portaria nº 4.776, de 25 de Agosto de 2014 - SME<br></b></span><span style="line-height: 1.2;">Dispõe sobre prazos para a inserção no EOL de dados relativos aos uniformes escolares para os alunos da Rede Municipal de Ensino.</span></li></ul></div><div><br></div><div><div><b>Página 41 </b></div><div><ul><li><b style="line-height: 1.2;">Calhau - Oportunidades de Movimentação de Pessoal.</b><br></li></ul></div></div><div><b><br></b></div><div><div style="font-weight: bold;">Página 46 </div><div><ul><li><b style="font-weight: bold; line-height: 1.2;"><div style="display: inline !important;"> Comunicado 064/EMASP/2014 <br></div></b><span style="line-height: 1.2;">Inscritos para a Oficina de Coaching II.</span></li></ul></div></div><div><br></div><div><div><b>Página 47 </b></div><div><ul><li><b style="line-height: 1.2;"> Calhau - PMSP - SME - UAB <br></b><span style="line-height: 1.2;">Abertas inscrições para cursos de Pós-Graduação Lato-Sensu, na modalidade Educação a Distância.</span></li></ul></div></div><div><br></div><div><div><b>Página 48 </b></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 1.412, de 25 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Curso Optativo:" Respeitar é preciso! A Escola como Espaço da Educação em Direitos Humanos" Módulo II, em parceria com a Secretaria Municipal de Direitos Humanos e Cidadania. Público Alvo: Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Assistente Técnico Educacional , Auxiliar Técnico de Educação, Gestor e Coordenador na unidade CEU, Supervisor Escolar, Educadores e integrantes das comunidades escolares das unidades educacionais (Centro de Educação Infantil, Escola de Educação Infantil e Escola Municipal de Ensino Fundamental) dos 04 Centros de Educação em Direitos Humanos e das respectivas unidades satélites que, neste momento participam do Programa até o limite de duzentas vagas para cada polo CEU, sendo que eventuais vagas remanescentes poderão ser destinadas aos educadores das demais unidades educacionais da respectiva DRE, a saber: DRE-Campo Limpo: CEU Casablanca e suas unidades educacionais EMEFs Jornalista Millor Fernandes e Terezinha Mota de Figueiredo; DRE Freguesia do Ó-Brasilandia: CEU Jardim Paulistano e suas unidades educacionais EMEF Senador Milton Campos; EMEI Rosa e Carolina Agazzi e CEU Paz ; DRE Pirituba -Jaraguá CEU Pera Marmelo e suas unidades educacionais EMEFs Victor Civita e Renato Antonio Checchia; DRE São Mateus-CEU São Rafael e suas unidades educacionais EMEFs Julio de Grammont e EMEF Alceu Amoroso Lima. Áreas Promotoras: Secretaria Municipal de Educação e Secretaria Municipal de Direitos Humanos e Cidadania. </span></li></ul></div></div><div><div><br></div><div><ul><li><b style="line-height: 1.2;"> Publicado por Omissão no DOC de 08/08/14 - Comunicado nº 1.419 - SME<br></b><span style="line-height: 1.2;">Convoca os Orientadores de Estudo e Formadores de Estudo inscritos para participarem dos encontros de formação do ?Pacto Nacional de Alfabetização na Idade Certa RME - 2014 - Modulo IV". Público Alvo: Orientadores de Estudo e Formadores de Estudo inscritos. Área Promotora: DOT/Núcleo de Alfabetização Ensino Fundamental e Médio e as Diretorias de Orientação Técnico - Pedagógicas das DRE. </span></li></ul></div></div><div><b><br></b></div><div><div><b>Página 49 </b></div><div><ul><li><b style="line-height: 1.2;">Coordenação de Gestão de Pessoas - CGP, da Secretaria Municipal de Saúde - SMS <br></b><span style="line-height: 1.2;">Seminário: Atenção integral à saúde e desenvolvimento da criança e do adolescente na rede de atenção psicossocial: O cuidado no território. Participantes: Profissionais de nível Médio e Universitário, Cargos e Segmentos, da Secretaria Municipal da Saúde, que atuam na Rede de Atenção Psicossocial.</span></li></ul></div></div><div><b><br></b></div><div><div><b>Página 52 </b></div><div><ul><li><b style="line-height: 1.2;"> Comunicado nº 61, de 14 de Agosto de 2014 - DRE Freguesia/Brasilândia<br></b><span style="line-height: 1.2;">Curso Optativo: ?Educação e Relações Raciais: melhores indicadores na qualidade de vida e da educação". Público-Alvo: Supervisor Escolar, Diretor de Escola, Coordenador Pedagógico, Professor de Ensino Fundamental II e Médio, Professor de Educação Infantil e Ensino Fundamental I, Professor de Educação infantil, Auxiliar Técnico de Educação e Agente Escolar jurisdicionados a Diretoria Regional de Educação de Freguesia/Brasilândia. Área Promotora: DOT da DRE de Freguesia/Brasilândia.</span></li></ul></div></div><div><br></div><div><b><br></b></div><div><div><b>Página 53 </b></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 33, de 26 de Agosto de 2014 - DRE Santo Amaro<br></b><span style="line-height: 1.2;">Curso optativo: ?Educação de Jovens e Adultos: Reflexões sobre a construção de um currículo para a diversidade." Público Alvo: Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio que atendem turmas da Educação de Jovens e Adultos, Coordenador Geral de CIEJA, Orientador Pedagógico de CIEJA, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Assistente Técnico de Educação, Equipes da DRE de Santo Amaro, Gestor de CEU, Coordenador de Núcleo e Projeto (Educacional, Esporte e Lazer e Cultural), Monitores e Coordenadores do  MOVA, Assistente de Gestão de Políticas Públicas, que atuam na DRE Santo Amaro. </span></li></ul></div></div><div><br></div><div><div><b>Suplemento - Página 1 </b></div><div><br></div><div><ul><li><span style="line-height: 1.2;">Concurso Público de Ingresso para Provimento de Cargos Vagos de Professor de Educação Infantil e Ensino Fundamental I - A Diretora do Departamento de Recursos Humanos - DERH, da Coordenadoria de Gestão de Pessoas - COGEP da Secretaria Municipal de Planejamento, Orçamento e Gestão - SEMPLA, torna público o Resultado dos Recursos e o Resultado Preliminar da Prova Objetiva.  As questões das Provas Objetivas, após análise dos recursos, tiveram alternativas alteradas, portanto, os pontos referentes às mesmas foram atribuídos somente aos candidatos presentes às provas que acertaram as alternativas corretas. Gabarito Alterado: Nº da questão Alteração 06 de (D) para (E). As demais questões não foram anuladas ou alteradas. </span><br></li></ul></div><div><b><br></b></div><div><b>Suplemento - Página  64 </b></div><div><br></div><div><ul><li><span style="line-height: 1.2;">Demais Comunicados: O espelho da Folha de Resposta será disponibilizada no site do IBFC (www.ibfc.org.br), no prazo de 0h00 de 27/08/2014 às 23h59 de 28/08/2014, de acordo com o item 8.26. do Capítulo 8 do Edital de Abertura de Inscrições e Instruções Especiais.  Conforme o Edital de Abertura de Inscrições e Instruções Especiais, caberá recurso das notas da Prova Objetiva, dirigido ao Secretário Municipal de Planejamento, Orçamento e Gestão, devidamente fundamentado, no prazo de 2 (dois) dias úteis, ou seja, 27 e 28/08/2014. </span><br></li></ul></div><div><br></div></div><div><br></div>
+		</div>
+	</div>
+</div>
+
+<div class="container pb-5 mb-5">
+	<div class="row">
+		<div class="col-sm">
+			
+		</div>
+	</div>
+</div>
+@endsection

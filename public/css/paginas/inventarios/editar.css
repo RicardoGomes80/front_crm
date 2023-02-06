@@ -1,0 +1,11 @@
+.vertical-timeline-element-custom {
+    display: block;
+    position: absolute;
+    left: -90px;
+    top: 0;
+    padding-right: 1010px;
+    text-align: right;
+    color: #adb5bd;
+    font-size: .7619rem;
+    white-space: nowrap
+}

@@ -1,0 +1,27 @@
+.select2-container .select2-selection--multiple::after {
+  height: 10px !important;
+}
+.select2-container .select2-selection--multiple {
+	overflow: hidden !important;
+	height: auto !important;	
+}
+.select2-container--bootstrap4 .select2-selection--multiple .select2-selection__choice__remove{
+	border-radius: 5px;
+	background: #3f6ad8 !important;
+	color: white !important;
+	border-color: white !important;
+	border-style: none;
+	padding: 5px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.select2-container--bootstrap4 .select2-selection--multiple .select2-search--inline .select2-search__field{
+    padding: 1 !important;
+    margin: 1 !important;
+    resize: none !important;
+}
+.select2-container--bootstrap4 .select2-selection--multiple .select2-selection__choice{
+    padding: 1 !important;
+    margin-left: calc(calc(2.25rem + 1px)/5 - 1px) !important;
+    font-size: smaller !important;
+}

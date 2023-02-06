@@ -1,0 +1,42 @@
+@extends('frontend.layouts.app_frontend')
+@section('content')
+<title>Análise Diário Oficial dia 07/08/14</title>
+<meta name="keywords" content="HASHTAGS">
+<meta name="description" content="TEXTO-DESCRIPTION">
+<section id="breadcrumb" class="breadcrumb-section relative-position backgroud-style">
+	<div class="blakish-overlay"></div>
+	<div class="page-breadcrumb-content text-center">
+		<h2 class="breadcrumb-head black bold">Análise Diário Oficial dia 07/08/14</span></h2>
+	</div>
+</section>
+
+
+<div class="container">
+	<div class="row">
+		<div class="col-sm">
+			<h4>Análise Diário Oficial dia 07/08/14</h4>
+		</div>
+		<div class="col-sm">
+			<!-- TEXTO_PUPLICADO_POR -->
+		</div>
+		<div class="col-sm">
+			<!-- TEXTO_DATA_PUPLICACAO -->
+		</div>
+	</div>
+</div>
+<div class="container pb-5 mb-5">
+	<div class="row">
+		<div class="col-sm">
+			<div><b>Página 40 </b></div><div><ol><li><b style="line-height: 1.2;">Comunicado nº 27/2014/DESS-3 <br></b><span style="line-height: 1.2;">Curso: Rito de Passagem - Plano de Sucessão, em parceria com a Secretaria de Negócios Jurídicos-Gabinete - SNJ-G. Público Alvo Servidores, que estão a 05 anos da aposentadoria. Coordenação: SEMPLA/COGEP/DESS/Núcleo de Projetos e Educação em Saúde - NUPES. Parceria: Secretaria de Negócios Jurídicos-Gabinete - SNJ-G.</span></li></ol></div><div><b style="line-height: 1.2;">Página 44 </b><br></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 1.327, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário: "A presença Indígena na cidade de São Paulo"- DRE São Mateus. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE São Mateus. Área Promotora: Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Étnico-Racial.</span></li></ul></div><div><br></div><div><ul><li><b style="line-height: 1.2;"> Comunicado nº 1.328, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário "A presença Indígena na cidade de São Paulo"- DRE São Miguel. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação  I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE São Miguel. Área Promotora Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Étnico-Racial.</span></li></ul></div><div><br></div><div><ul><li><b style="line-height: 1.2;"> Comunicado nº 1.333, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário "A presença Indígena na cidade de São Paulo"- DRE Penha. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE Penha. Área Promotora Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Étnico-Racial.</span></li></ul></div><div><b><br></b></div><div><ul><li><b style="line-height: 1.2;">- Comunicado nº 1.330, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário "A presença Indígena na cidade de São Paulo"- DRE Campo Limpo. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE Campo Limpo. Área Promotora Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Etnicorracial.</span></li></ul></div><div><b style="line-height: 1.2;">Página 45 </b><br></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 1.331, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário "A presença Indígena na cidade de São Paulo"- DRE Guaianases. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE Guaianases.Área Promotora Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Étnico-racial</span></li></ul></div><div><b><br></b></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 1.332, de 06 de Agosto de 2014 - SME<br></b><span style="line-height: 1.2;">Seminário "A presença Indígena na cidade de São Paulo"- DRE Pirituba. Público Alvo: Supervisor Escolar, Diretor de Escola, Assistente de Diretor de Escola, Coordenador Pedagógico, Professor de Educação Infantil, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Auxiliar Técnico de Educação e Assistente Técnico de Educação I, Gestor de CEU, Coordenador de Ação Educacional, Coordenador de Ação Cultural, Coordenador de Ação de Esportes e Lazer, Coordenador de Projetos, Coordenador de Biblioteca. Todos os inscritos deverão ter sua unidade de exercício na DRE Pirituba. Área Promotora: Secretaria Municipal de Educação - Diretoria de Orientação Técnica - Núcleo de Educação Étnico-racial. </span></li></ul></div><div><b><br></b></div><div><ul><li><b style="line-height: 1.2;">Comunicado nº 1.335, de 06 de Agosto de 2014 Omissão da Publicação no DOC de 30 de Janeiro de 2014 - SME<br></b><span style="line-height: 1.2;">Curso: "Atualização EJA e Juventude Viva - JUVIVA". Público Alvo: Auxiliar Técnico de Educação, Assistente Técnico de Educação I, Assessor Técnico de Educação, Diretor de DOT - P das Diretorias Regionais de Educação, Diretor de Divisão de Orientação Técnica, Coordenador de Núcleo da Diretoria de Orientação Técnica, Professor de Educação Infantil e Ensino Fundamental I, Professor de Ensino Fundamental II e Médio, Coordenador Pedagógico, Diretor de Escola, Supervisor Escolar que atuam na EJA. Área Promotora: Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão - SECADI; Observatório da Juventude da Universidade Federal de Minas Gerais - UFMG e Divisão de Orientação Técnica da Educação de Jovens e Adultos - DOT EJA e Núcleo de Educação Étnico-racial.</span></li></ul></div><div><b> </b></div><div><ul><li><b style="line-height: 1.2;">Republicado por conter incorreções no DOC de 22/02/2013 Comunicado nº 159, de 21 de Fevereiro de 2013 - SME</b><br></li></ul></div>
+		</div>
+	</div>
+</div>
+
+<div class="container pb-5 mb-5">
+	<div class="row">
+		<div class="col-sm">
+			
+		</div>
+	</div>
+</div>
+@endsection

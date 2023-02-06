@@ -1,0 +1,36 @@
+<!-- <script type="text/javascript" src="jquery.min.js"></script> -->
+<script
+      src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+      integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ"
+      crossorigin="anonymous"
+    ></script>
+<script type="text/javascript" src="ckeditor.js"></script>
+<textarea class="CKEDITOR" name="CKEDITOR" id="CKEDITOR"></textarea>
+
+<script type="text/javascript">
+$(document).ready(function() {
+     editor = CKEDITOR.replaceAll('CKEDITOR');
+     /*$(document).on('click', '.baixarPdf ', function(){
+   
+    id = $('#id').val();
+    for ( instance in CKEDITOR.instances )
+        CKEDITOR.instances[instance].updateElement();
+       texto = $('.CKEDITOR').val();
+  
+    $.ajax({
+            url: 'modeloDocumento_gravar',
+            type: 'post',
+            data:{'id':id ,'texto' :texto},
+            headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
+            success: function(result){
+              if(result == 1){
+                modeloDocumentoPreparaPdf(id,texto,'baixar');
+              }else{
+                url = urlSis+'storage/app/public/pdf/invoice.pdf';    
+                setTimeout(function(){ document.getElementById('recebePdf').src = url; }, 100);
+              }
+            }
+          });
+  });*/
+});
+</script>

@@ -1,0 +1,17 @@
+/*!
+ * Estilizacao do plugin jquery autocomplete.
+ */
+.autocomplete-suggestions { border: 1px solid #999; background: #FFF; overflow: auto; cursor: pointer;}
+.autocomplete-suggestion { padding: 2px 5px; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #F0F0F0; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399FF; }
+.autocomplete-group { padding: 2px 5px; }
+.autocomplete-group strong { display: block; border-bottom: 1px solid #000; }
+.autocomplete-suggestions::-webkit-scrollbar { width: 5px;height: 5px; }
+.autocomplete-suggestions::-webkit-scrollbar-thumb {
+background: -webkit-gradient(linear,left top,left bottom,from(#eee),to(#e0e0e0));
+background: linear-gradient(120deg,#C6C2C2,#C6C2C2);
+border-radius: 10px; 
+box-shadow: inset 2px 2px 2px #ccc, inset -2px -2px 2px #ccc;
+}
+.autocomplete-suggestions::-webkit-scrollbar-track { /* background: linear-gradient(90deg,#aaa,#aaa 1px, #aaa 0,#aaa ); */ }

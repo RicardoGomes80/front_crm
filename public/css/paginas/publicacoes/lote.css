@@ -1,0 +1,21 @@
+  .modal.modal-fullscreen .modal-dialog {
+  width: 90vw;
+  height: 90vh;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+  margin: auto;
+}
+
+.modal.modal-fullscreen .modal-content {
+  height: auto;
+  height: 90vh;
+  border-radius: 0;
+  border: none; 
+  margin: auto;
+}
+
+.modal.modal-fullscreen .modal-body {
+  overflow-y: auto; 
+  margin: auto;
+}
